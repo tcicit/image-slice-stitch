@@ -1,0 +1,11 @@
+input_folder = "/home/tci/Dokumente/Entwicklung/Python/tci-stipe-image-qt/in"
+output_folder = "/home/tci/Dokumente/Entwicklung/Python/tci-stipe-image-qt/out"
+strip_count = 12
+random_strips = true
+min_strip_size = 300
+max_strip_size = 800
+direction = "vertical"
+insert_blank = false
+blank_width = 200
+strip_color = [ 46, 194, 126,]
+grayscale = false
