@@ -11,6 +11,11 @@ Ein Python-Programm, das Bilder in Streifen schneidet und neu zusammensetzt. Ide
 - Vorschau des Eingabebildes und des generierten Bildes.
 - Unterstützt Drag & Drop für die Bildauswahl.
 
+## Screenshot
+
+![](examples/screenshot01.png)
+
+
 ## Example
 ![](examples/a903da48-c940-464f-8c64-b153f60ad689_striped.jpg)
 
