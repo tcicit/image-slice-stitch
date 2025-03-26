@@ -5,8 +5,6 @@ Archiv/
 build/
 dist/
 gen_bin.sh
-in/
-out/
 tci_main_image_slice_stitch_26.spec
 test/
 venv/
