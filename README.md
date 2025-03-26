@@ -31,16 +31,21 @@ Ein Python-Programm, das Bilder in Streifen schneidet und neu zusammensetzt. Ide
    ```bash
    git clone https://github.com/tcicit/image-slice-stitch.git
    cd image-slice-stitch
+   ```
 
 2. **Python installieren**  
    Installiere Python wenn noch nicht vorhanden 
 
 3. **Virtual Environement aktivieren**
+   ```bash
    python3 -m venv ./venv
    source ./venv/bin/activate
+   ```
 
 4. **Zusätzliche Python Module installiern**
+   ```bash
    pip install -r requirements.txt
+   ```
 
 
 ## Erstellen eines eigenständigen Programms mit PyInstaller
